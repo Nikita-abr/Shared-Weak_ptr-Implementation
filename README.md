@@ -1,4 +1,4 @@
-# SharedPtr / WeakPtr —  реализация
+# Реализация SharedPtr / WeakPtr
 
 Учебный C++ проект с реализацией собственных аналогов `std::shared_ptr` и `std::weak_ptr`
 для типа `std::string`.
